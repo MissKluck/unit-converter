@@ -1,0 +1,10 @@
+.input-container {
+ display: grid;
+ grid-template-columns: auto auto;
+}
+
+.input-field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
